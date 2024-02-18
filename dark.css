@@ -23,6 +23,7 @@ body {
   }
   li {
     color: aliceblue;
+    font-family: monospace;
   }
   a {
     color: cornflowerblue;
