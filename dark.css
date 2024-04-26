@@ -1,25 +1,17 @@
-body {
+  body {
     background-color: #072138;
   }
   
-  h1 {
+  h1, h2, h3 {
     color: aliceblue;
     font-family: monospace;
     text-align: center;
-  }
-  h2 {
-    color: aliceblue;
-    font-family: monospace;
-    text-align: center;
-  }
-  h3 {
-    color: aliceblue;
-    font-family: monospace;
   }
   p {
     color: aliceblue;
     font-family: monospace;
     font-size: 20px;
+    text-align: center;
   }
   li {
     color: aliceblue;
