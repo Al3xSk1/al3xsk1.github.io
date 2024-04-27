@@ -7,15 +7,11 @@
     font-family: monospace;
     text-align: center;
   }
-  p {
+  p, li {
     color: aliceblue;
     font-family: monospace;
     font-size: 20px;
     text-align: center;
-  }
-  li {
-    color: aliceblue;
-    font-family: monospace;
   }
   a {
     color: cornflowerblue;
